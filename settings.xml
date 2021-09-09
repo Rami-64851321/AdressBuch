@@ -1,0 +1,30 @@
+﻿<People>
+	<Person>
+		<Name>Klein</Name>
+		<Vorname>Thomas</Vorname>
+		<Strasse>Auf dem Klei 41</Strasse>
+		<PLZ>44263</PLZ>
+		<Ort>Dortmund</Ort>
+	</Person>
+	<Person>
+		<Name>Schmidt</Name>
+		<Vorname>Heinz</Vorname>
+		<Strasse>Ottostr 1</Strasse>
+		<PLZ>44000</PLZ>
+		<Ort>Münster</Ort>
+	</Person>
+	<Person>
+		<Name>Nebel</Name>
+		<Vorname>Paul</Vorname>
+		<Strasse>Dortmunderstr. 54</Strasse>
+		<PLZ>46000</PLZ>
+		<Ort>Bochum</Ort>
+	</Person>
+	<Person>
+		<Name>Wetter</Name>
+		<Vorname>Claudia</Vorname>
+		<Strasse>Kurze Strasse 44</Strasse>
+		<PLZ>43789</PLZ>
+		<Ort>Duisburg</Ort>
+	</Person>
+</People>
